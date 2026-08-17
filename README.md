@@ -1,7 +1,8 @@
-# KVS Principal 2017 — Questions 1–50
+# KVS Principal 2017 — Q.1–Q.50 Updated Bilingual Version
 
-Extracted from the uploaded KVS Principal 2017 PDF. The answer key is the key printed at the end of the PDF. All four options are shown after an attempt.
+- Hindi question and Hindi options are based on the Hindi column of the uploaded scanned PDF, cleaned for OCR errors.
+- All four options now have detailed English + Hindi conceptual explanations.
+- Correct option turns green; selected wrong option turns red; solution shows all four options with explanations.
+- Answer keys are preserved from the earlier PDF-based quiz version.
 
-Note: option explanations in this version are status/concept explanations rather than reproducing any unavailable official rationale from the PDF. Q46 is a potentially debatable item: the printed key marks option 2; the quiz preserves the source key rather than silently changing it.
-
-Upload index.html, style.css, script.js and questions.js to GitHub Pages.
+Upload/replace: `index.html`, `style.css`, `script.js`, `questions.js`.
